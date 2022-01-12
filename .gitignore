@@ -1,0 +1,4 @@
+.dccache
+snapper/tests/__pycache__
+snapper/geckodriver.log
+snapper/src/__pycache__

@@ -1,0 +1,6 @@
+selenium
+selenium-screenshot
+pillow
+nose
+flask
+virtualenv
