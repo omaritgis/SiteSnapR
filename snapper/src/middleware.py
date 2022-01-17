@@ -18,7 +18,7 @@ def snap():
     ui = UIFlow()
     ui.browserOpens(url)
     ui.pictureSnapped()
-    full_filename = os.path.join(app.config['UPLOAD_FOLDER'], 'screenshot.png')
+    full_filename = os.path.join(app.config['UPLOAD_FOLDER'], 'screenshots.png')
     return render_template('index.html', user_image=full_filename)
 
 if __name__ == '__main__':

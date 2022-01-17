@@ -1,0 +1,37 @@
+1642416873280	geckodriver	INFO	Listening on 127.0.0.1:57687
+1642416874270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile073ZRg"
+*** You are running in headless mode.
+1642416877921	Marionette	INFO	Listening on port 34003
+1642416878032	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://github.githubassets.com/assets/webgl-globe-df1be941.js, line 3327: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://github.githubassets.com/assets/webgl-globe-df1be941.js, line 3327: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://github.githubassets.com/assets/webgl-globe-df1be941.js, line 3327: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://github.githubassets.com/assets/webgl-globe-df1be941.js, line 3327: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://github.githubassets.com/assets/webgl-globe-df1be941.js, line 3327: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://github.githubassets.com/assets/webgl-globe-df1be941.js, line 3327: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1642416922057	geckodriver	INFO	Listening on 127.0.0.1:56749
+1642416922064	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilem3n9ea"
+*** You are running in headless mode.
+1642416926468	Marionette	INFO	Listening on port 38101
+1642416926503	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://github.githubassets.com/assets/webgl-globe-df1be941.js, line 3327: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://github.githubassets.com/assets/webgl-globe-df1be941.js, line 3327: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://github.githubassets.com/assets/webgl-globe-df1be941.js, line 3327: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://github.githubassets.com/assets/webgl-globe-df1be941.js, line 3327: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://github.githubassets.com/assets/webgl-globe-df1be941.js, line 3327: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://github.githubassets.com/assets/webgl-globe-df1be941.js, line 3327: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
