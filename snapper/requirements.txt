@@ -3,4 +3,4 @@ selenium-screenshot
 pillow
 nose
 flask
-virtualenv
+waitress

@@ -22,4 +22,5 @@ def snap():
     return render_template('index.html', user_image=full_filename)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    print("test")
+    app.run()
