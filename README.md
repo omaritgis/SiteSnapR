@@ -6,6 +6,7 @@
 Installation:
 ```
 git clone https://github.com/omaritgis/SiteSnapR.git
+cd SiteSnapR
 docker build -t sitesnapr .
 docker run -it sitesnapr
 ```
